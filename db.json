@@ -23,6 +23,14 @@
       "place": "Kolkata",
       "batch_name": "web15",
       "profession": "backend"
+    },
+    {
+      "id": 4,
+      "name": "Rahul",
+      "age": 26,
+      "place": "Delhi",
+      "batch_name": "web13",
+      "profession": "frontend"
     }
   ]
 }
